@@ -6,6 +6,8 @@ from matplotlib.animation import FuncAnimation, PillowWriter
 import gc
 import warnings
 import os
+import io
+import gc
 
 warnings.filterwarnings('ignore')
 
